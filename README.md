@@ -2,16 +2,16 @@
 This repository contains a Jupyter Notebook titled assignment_NC2425_final.ipynb, which serves as the final assignment submission for the NC2425 course. The notebook applies a variety of computer vision and image processing techniques using Python libraries to create a convolutional neural network that recognises and labels different food dishes.
 
 ## Contributors
-Enzo Perk (s3894347)
-Sem Broere (s3410552)
-Bing Steens (s3901149)
-Thijmen Bouman (s3543404)
+Enzo Perk (s3894347)\
+Sem Broere (s3410552)\
+Bing Steens (s3901149)\
+Thijmen Bouman (s3543404)\
 
 ## Repository Structure
-.
-├── assignment_NC2425_final.ipynb
-├── report.pdf
-├── best_model.pth
+.\
+├── assignment_NC2425_final.ipynb\
+├── report.pdf\
+├── best_model.pth\
 └── README.md
 
 ## Requirements
@@ -29,12 +29,12 @@ collections
 
 ## Training & Testing data
 The user needs to add teir own train and test dataset to create the following directory structure:
-.
-├── assignment_NC2425_final.ipynb
-├── report.pdf
-├── best_model.pth
-├── README.md
-├── train
+.\
+├── assignment_NC2425_final.ipynb\
+├── report.pdf\
+├── best_model.pth\
+├── README.md\
+├── train\
 └── test
 
 Where the train and test folders consist of folders, with the folder name as labels. Each labelled folder must consists of .jpg images.
